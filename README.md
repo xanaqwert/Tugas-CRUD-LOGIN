@@ -43,11 +43,11 @@
 
 <img src="images/Screenshot_login.png" alt="Screenshot">
 
-Bagian Login.
+Login page.
 
 <img src="images/Screenshot_home.png" alt="Screenshot">
 
-Bagian Home.
+Home page.
 
 
 ### Built With
