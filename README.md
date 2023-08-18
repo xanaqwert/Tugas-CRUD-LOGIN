@@ -39,7 +39,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About Screencik
+## About CRUD
 
 <img src="images/Screenshot_login.png" alt="Screenshot">
 
