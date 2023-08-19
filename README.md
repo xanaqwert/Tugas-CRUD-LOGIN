@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="" alt="This is Logo" width="250px" height="150px">
+    <img src="" alt="This is Logo (ceritanya logo)" width="250px" height="150px">
   </a>
 
   <h3 align="center">Simple CRUD and Login system</h3>
