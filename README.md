@@ -96,5 +96,3 @@ Don't forget to give the project a star! Thanks again!
 
 Muhammad Sahl Harits - [@xanaqwert](https://twitter.com/xanaqwert) - sahlrangers@gmail.com
 </br>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
